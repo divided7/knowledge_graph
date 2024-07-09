@@ -44,3 +44,4 @@
    - 定期更新电影数据库，添加新的电影信息或更新现有电影的相关信息，以保持知识图谱的最新性和完整性。
 
 这个简单的例子展示了如何通过收集、抽取、表示和存储数据来构建一个基本的电影知识图谱，从而支持各种电影相关的智能应用。
+https://colab.research.google.com/drive/1PHr1bRWOeA0IxsPSHdo3OKdeVp3eULsv#scrollTo=xe53kNFCO1tQ
